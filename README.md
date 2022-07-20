@@ -1,4 +1,4 @@
-# NCCBUDDY
+# BLOG IT
 Social Media Clone Developed In Django
 ## Getting Started
 This project is basic social media clone with features like 

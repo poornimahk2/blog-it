@@ -1,5 +1,5 @@
 import os
-import django_on_heroku
+# import django_on_heroku
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -92,7 +92,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # Configure Django App for Heroku.
 
-django_on_heroku.settings(locals())
+# django_on_heroku.settings(locals())
 
 LANGUAGE_CODE = 'en-us'
 
